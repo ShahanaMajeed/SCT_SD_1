@@ -38,9 +38,6 @@ I’ve uploaded a short video demonstrating the project in action.
 
 🎥 **Watch here:**
 
-[Click to watch the demo video](demo.mp4) <!-- if uploaded to GitHub -->
-
-or
 
 [Check out my LinkedIn Post](https://www.linkedin.com/in/shahana-m-a-a2113031a) <!-- replace with your actual LinkedIn post link -->
 

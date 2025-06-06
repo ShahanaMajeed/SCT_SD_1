@@ -27,9 +27,13 @@ Select the input temperature scale:
 1. Celsius
 2. Fahrenheit
 3. Kelvin
+
 Enter your choice (1/2/3): 1
+
 Enter temperature in Celsius: 100
+
 Fahrenheit: 212.00 °F
+
 Kelvin: 373.15 K
 
 

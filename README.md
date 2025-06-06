@@ -20,3 +20,30 @@ Developed a Python program that converts temperatures between **Celsius, Fahrenh
 ## 📁 File
 - `TemperatureConverter.py` — main script file
 
+##📌 Output Example
+Welcome to Temperature Converter!
+Select the input temperature scale:
+1. Celsius
+2. Fahrenheit
+3. Kelvin
+Enter your choice (1/2/3): 1
+Enter temperature in Celsius: 100
+Fahrenheit: 212.00 °F
+Kelvin: 373.15 K
+
+  
+## ▶️ Demo
+
+I’ve uploaded a short video demonstrating the project in action.
+
+🎥 **Watch here:**
+
+[Click to watch the demo video](demo.mp4) <!-- if uploaded to GitHub -->
+
+or
+
+[Check out my LinkedIn Post](https://www.linkedin.com/in/shahana-m-a-a2113031a) <!-- replace with your actual LinkedIn post link -->
+
+
+
+🔗 Connect with me on [LinkedIn](http://linkedin.com/in/shahana-m-a-a2113031a)

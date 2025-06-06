@@ -23,6 +23,7 @@ Developed a Python program that converts temperatures between **Celsius, Fahrenh
 ## 📌 Output Example
 
 Welcome to Temperature Converter!
+
 Select the input temperature scale:
 1. Celsius
 2. Fahrenheit

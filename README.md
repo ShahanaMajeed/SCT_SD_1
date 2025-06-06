@@ -39,9 +39,6 @@ I’ve uploaded a short video demonstrating the project in action.
 
 🎥 **Watch here:**
 
-
-[Check out my LinkedIn Post]([https://www.linkedin.com/in/shahana-m-a-a2113031a](https://www.linkedin.com/posts/shahana-m-a-a2113031a_skillcrafttechnology-softwaredevelopment-activity-7336781879947235331-nBCB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDSJLkB3ZmFJto10XX4UoRY3FuwvZv-mNo)) <!-- replace with your actual LinkedIn post link -->
-
-
+You can also check it out on my [LinkedIn Post](https://www.linkedin.com/posts/shahana-m-a-a2113031a_skillcrafttechnology-softwaredevelopment-activity-7336781879947235331-nBCB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDSJLkB3ZmFJto10XX4UoRY3FuwvZv-mNo).
 
 🔗 Connect with me on [LinkedIn](http://linkedin.com/in/shahana-m-a-a2113031a)
